@@ -65,3 +65,12 @@ img{
   padding: 1rem;
   border-radius: 1rem;
 }
+
+#reset-btn{
+  margin: 2rem;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+  font-size: 1rem;
+  border-radius: 1rem;
+}
